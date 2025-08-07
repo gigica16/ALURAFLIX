@@ -33,6 +33,12 @@ section {
     margin-right: 5%;
 }
 
+body {
+  color: white;
+  background: black;
+  margin: 0px;
+  font-family: "Chakra Petch", sans-serif;
+}
 
 
 
